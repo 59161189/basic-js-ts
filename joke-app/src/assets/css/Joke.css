@@ -1,0 +1,11 @@
+.joke-container {
+    display: flex;
+    color: #707070;
+    justify-content: center;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: #595b83;
+    height: 30%;
+    border-radius: 1rem;
+    box-shadow: 0vw 0.5vw 1vw #333456;
+}
